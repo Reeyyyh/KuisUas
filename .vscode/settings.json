@@ -1,0 +1,18 @@
+{
+    "explorer.compactFolders": false,
+    "vscode_vibrancy.theme": "Default Dark",
+    "vscode_vibrancy.opacity": 0.7,
+
+    // "editor.tokenColorCustomizations": {
+    //     "textMateRules": [
+    //         {
+    //             "scope": [
+    //                 "entity.name.function"
+    //             ],
+    //             "settings": {
+    //                 "foreground": "#00ffff",
+    //             }
+    //         }
+    //     ]
+    // }
+}
